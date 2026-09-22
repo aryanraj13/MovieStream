@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+Movie-AI-Recommender/Server/MovieStreamServer/.env
+Movie-AI-Recommender/Client/movie-stream-client/.env
+
+# Node
+node_modules/
+dist/
+
+# Go
+bin/
